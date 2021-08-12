@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">imcapp</string>
+    <string name="resultado_imc">Resultado</string>
+    <string name="titulo_imc">IMC</string>
+    <string name="texto_peso">Peso (ex: 65.8 kg)</string>
+    <string name="botao_calcular">Calcular</string>
+    <string name="texto_altura">Altura (ex: 1.78 cm)</string>
+    <string name="botao_voltar">Voltar</string>
+</resources>
